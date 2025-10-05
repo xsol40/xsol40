@@ -2,7 +2,7 @@
  I'm Maissa</h1>
 <h3 align="center">1337 coding school student</h3>
  
-### 🏆 42 Journey
+          ### 🏆 42 Network student 
 
 <div align="center">
 

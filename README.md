@@ -2,7 +2,6 @@
  I'm Maissa</h1>
 <h3 align="center">1337 coding school student</h3>
 
-<h3 align="center">42 Network student</h3>
 <div align="center">
 
 [![42 Badge](https://badge.mediaplus.ma/starryblue/mel-hiak?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)

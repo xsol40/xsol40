@@ -1,13 +1,6 @@
-<div align="center">
-
-<!-- Header Banner with Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Maissa%20El%20Hiak&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=42%20Network%20Student%20|%20Cadet&descAlignY=55&descSize=20"/>
-
-</div>
-
-<div align="center">
-  
-### 👋 Welcome to my GitHub Profile!
+<h1 align="center"👋,
+ I'm Maissa</h1>
+<h3 align="center">1337 coding school student</h3>
   
 [![Profile Views](https://komarev.com/ghpvc/?username=mel-hiak&label=Profile%20views&color=ff69b4&style=for-the-badge)](https://github.com/mel-hiak)
 [![42 Profile](https://img.shields.io/badge/42%20Profile-mel--hiak-00babc?style=for-the-badge&logo=42)](https://profile.intra.42.fr/users/mel-hiak)
@@ -87,34 +80,6 @@ interests:
 </div>
 
 ---
-
-### 🌟 Current Focus
-
-- 🎯 Mastering C and C++ programming
-- 📚 Completing 42 Common Core projects
-- 💡 Building problem-solving skills
-- 🤝 Contributing to open-source projects
-- 🌱 Learning algorithms and data structures
-
----
-
-### 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for visiting! 💖
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
-
-</div>
 
 <!--
 **xsol40/xsol40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

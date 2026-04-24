@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![42 Badge](https://badge.mediaplus.ma/starryblue/mastermindmel-hiak?1337Badge=on)](https://github.com/oakoudad/badge42)
+[![42 Badge](https://badge.mediaplus.ma/starryblue/mastermindmel-hiak)](https://github.com/oakoudad/badge42)
 
 </div>
 

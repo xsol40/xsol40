@@ -5,7 +5,6 @@
 
 [![42 stats](https://badge.mediaplus.ma/darkblue/mel-hiak)](https://github.com/oakoudad/badge42)
 
-https://badge.mediaplus.ma/darkblue/mel-hiak
 </div>
 
 <p align="center">

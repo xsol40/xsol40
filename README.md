@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/Starryblue/mel-hiak)](https://github.com/oakoudad/badge42)
+[![mel-hiak's 42 stats](https://badge.mediaplus.ma/starryblue/mel-hiak)](https://github.com/oakoudad/badge42)
 
 </div>
 

@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![42 stats](https://badge.mediaplus.ma/Starryblue/mel-hiak)](https://badge.mediaplus.ma/Starryblue/mel-hiak)
+[![42 stats](https://badge.mediaplus.ma/starryblue/mel-hiak)](https://badge.mediaplus.ma/starryblue/mel-hiak)
 
 </div>
 
